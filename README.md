@@ -10,7 +10,7 @@ iamoliviakim.com
 Google Analytics, Google Tag Manager, HTML, CSS, JS, Git, AWS
 ## Demo
 
-![Screenshot](https://github.com/oliviakim217/iamoliviakim-personal-site/images/project2-screenshot.png)
+![Screenshot](https://github.com/oliviakim217/iamoliviakim-personal-site/blob/develop/images/project2-screenshot.png?raw=true)
 
 
 
