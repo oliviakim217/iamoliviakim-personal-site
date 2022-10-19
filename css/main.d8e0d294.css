@@ -339,13 +339,13 @@ textarea {
 }
 
 a {
-    color: #ff0060;
+    color: #3D426B;
     text-decoration: none
 }
 
 a:focus,
 a:hover {
-    color: #b30043;
+    color: #3D426B;
     text-decoration: underline
 }
 
@@ -543,7 +543,7 @@ h5 {
 
 .h6,
 h6 {
-    font-size: 14px
+    font-size: 16px
 }
 
 p {
