@@ -12,6 +12,8 @@ Google Analytics, Google Tag Manager, HTML, CSS, JS, Git, AWS
 
 ![Screenshot](https://github.com/oliviakim217/iamoliviakim-personal-site/blob/develop/images/project2-screenshot.png?raw=true)
 
+## Architecture
 
+![Screenshot](https://iamoliviakim-architecture.s3.amazonaws.com/iamoliviakim-architecture.jpeg)
 
 
